@@ -32,7 +32,7 @@ div.head {
 
 .navbar a {
     display: block;
-    padding: 20px 20px;
+    padding: 20px;
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
@@ -133,8 +133,21 @@ div.head {
  }
 
  div.titulo {
-    background-color: #fff;
-    padding: 10px;      
+    background-color: #79c9d0;
+    padding: 10px;  
+    margin: 30px;
+    border-radius: 10px;
+
+ }
+
+ 
+ .titul {
+    text-decoration: none;
+    color: #efefef;
+    padding: 20px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
  }
 
  .contenido {
